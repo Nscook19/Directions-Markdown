@@ -18,6 +18,7 @@ The barbell bench press is an exercise that can help you build up your chest mus
 * Your eyes should be directly below the barbell
 * Arch your back to create a gap in between your lower back and the bench
 * Tense your upper back and push it into the bench
+
 ![Positioning](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBkMmJxbzd1NWdweGUzaWM0aXVjdm51cWJ2OWgxa2xiYTR5azRkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jadrNdu7iZLcYmLAYf/giphy.gif)
 
 ### 4. Holding the barbell
