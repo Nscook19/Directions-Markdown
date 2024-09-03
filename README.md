@@ -24,6 +24,7 @@ The barbell bench press is an exercise that can help you build up your chest mus
 ### 4. Holding the barbell
 * Grip the barbell slightly wider than your shoulders
 * Firmly grasp the barbell, to ensure it can not move
+
 **Note:** There are different ways to hold the barbell, but this is the standard
   
 ### 5. Unracking the barbell  
@@ -33,6 +34,7 @@ The barbell bench press is an exercise that can help you build up your chest mus
 ### 6. Lowering the barbell
 * Lower the barbell to the bottom of chest
 * Ensure it gently touches before completing the next step
+
 **Note:** this process should take anywhere from 1 to 2 seconds
   
 ### 7. Pressing the barbell
@@ -43,6 +45,7 @@ The barbell bench press is an exercise that can help you build up your chest mus
 ### 8. Doing reps
 * After completing steps 6 and 7, decide if more reps are achievable
 * If they are, repeat steps 6 and 7 until you are too fatigued to do any more
+
 **WARNING:** Attempting too many reps than your body can handle can cause injury, know your limits!!
 
 ### 9. Reracking 
