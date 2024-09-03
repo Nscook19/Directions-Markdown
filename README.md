@@ -22,9 +22,9 @@ The barbell bench press is an exercise that can help you build up your chest mus
 ![Positioning](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBkMmJxbzd1NWdweGUzaWM0aXVjdm51cWJ2OWgxa2xiYTR5azRkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jadrNdu7iZLcYmLAYf/giphy.gif)
 
 ### 4. Holding the barbell
-**Note:** There are different ways to hold the barbell, but this is the standard
 * Grip the barbell slightly wider than your shoulders
 * Firmly grasp the barbell, to ensure it can not move
+**Note:** There are different ways to hold the barbell, but this is the standard
   
 ### 5. Unracking the barbell  
 * Take a deep breath to brace your core
