@@ -1,20 +1,20 @@
 # Perfecting the Barbell Bench Press  
 ## What is a barbell bench press?
-The barbell bench press is an exercise that can help you build up your chest muscles.  This set of instructions will teach you not only how to do a bench press, but to perfect it. 
+The barbell bench press is an exercise that can help you build your chest muscles.  This set of instructions will teach you not only how to do a bench press, but to perfect it. 
 # Warning!
-**Potential injury could occur if the exercise is performed incorrectly** 
+**Potential injury can occur if the exercise is performed incorrectly** 
 
 # Steps  
 ### 1. Locating the proper bench
 * Check for a bench that has a rack for a barbell
 * If you are by yourself, find a rack that has safety bars
   
-### 2. Determine the weight you should try to lift
+### 2. Determine the weight you should lift
 * If you are new to lifting, set up the barbell with nothing on it
 * If you know what you can lift, set up accordingly
   
 ### 3. Positioning
-* Lay flat on the bench with feet firmly planted
+* Lay flat on the bench with feet firmly planted on the floor
 * Your eyes should be directly below the barbell
 * Arch your back to create a gap in between your lower back and the bench
 * Tense your upper back and push it into the bench
@@ -32,7 +32,7 @@ The barbell bench press is an exercise that can help you build up your chest mus
 * Push the barbell up and outwards from the rack
 
 ### 6. Lowering the barbell
-* Lower the barbell to the bottom of chest
+* Lower the barbell to the bottom of your chest
 * Ensure it gently touches before completing the next step
 
 **Note:** this process should take anywhere from 1 to 2 seconds
