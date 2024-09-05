@@ -2,7 +2,7 @@
 ## What is a barbell bench press?
 The barbell bench press is an exercise that can help you build up your chest muscles.  This set of instructions will teach you not only how to do a bench press, but to perfect it. 
 # Warning!
-**Potential injury could occur if you do not do the exercise the right way** 
+**Potential injury could occur if the exercise is performed incorrectly** 
 
 # Steps  
 ### 1. Locating the proper bench
